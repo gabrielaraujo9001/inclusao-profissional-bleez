@@ -1,0 +1,10 @@
+/* Importando fontes */
+@font-face{font-family: DIN; font-weight: 300; font-style: normal; src: url('DINLight.ttf');}
+@font-face{font-family: DIN; font-weight: 400; font-style: normal; src: url('DINRegular.ttf');}
+@font-face{font-family: DIN; font-weight: 600; font-style: normal; src: url('DINMedium.ttf');}
+@font-face{font-family: DIN; font-weight: 700; font-style: normal; src: url('DINBold.ttf');}
+
+@font-face{font-family: DINAlternate; font-weight: 300; font-style: normal; src: url('DINLightAlternate.ttf');}
+@font-face{font-family: DINAlternate; font-weight: 400; font-style: normal; src: url('DINRegularAlternate.ttf');}
+@font-face{font-family: DINAlternate; font-weight: 600; font-style: normal; src: url('DINMediumAlternate.ttf');}
+@font-face{font-family: DINAlternate; font-weight: 900; font-style: normal; src: url('DINBlackAlternate.ttf');}
